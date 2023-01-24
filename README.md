@@ -1,11 +1,12 @@
-# SEC-project
-Financial Health Analysis (Data Engineering)
+# Financial-Health-Analysis
+
+#### Data Pipeline project
 
 My first Data Engineering project.
 
 I hope to build a data pipeline which will:
 
-- Access data from the Security Exchange Commission's API (EDGAR)
+- Access data from the AlphaVantage API
 - Prepare data using Python (pandas)
 - Warehouse the prepared data (Google BigQuery)
 - Obtain data from the database and analyze it (Python & SQL)
